@@ -28,3 +28,12 @@ I have already eaten here this week:
 |   - [] | Ammazza che pizza |
 |   - [] | Gazzo |
 |   - [] | GelGör |
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
