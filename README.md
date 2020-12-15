@@ -24,11 +24,11 @@ I have already eaten here this week:
 
 
 
-|   - [x] |My Kitchen |
+| &#9745; |My Kitchen |
 |---------|------------|
-|   - [ ] |Kotti Dang |
-|   - [ ] |Olivio |
-|   - [ ] |Ammazza che pizza |
-|   - [ ] |Gazzo |
-|   - [ ] |GelGör 
+| &#9744; |Kotti Dang |
+| &#9744; |Olivio |
+| &#9744; |Ammazza che pizza |
+| &#9744; |Gazzo |
+| &#9744; |GelGör 
 
