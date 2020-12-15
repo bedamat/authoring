@@ -19,12 +19,12 @@ i don't know yet what this will be for...
 <br>
 :hammer: :heart:
 
-I love to eat at these places:
+I have already eaten here this week:
 
- |   - [ ] | MY KITCHEN |
- |---------|------------|
- |   - [ ] | Kotti Dang |
-Olivio
-Ammazza che pizza
-Gazzo
-GelGör
+|[] | MY KITCHEN |
+|---|------------|
+|[x]| Kotti Dang |
+|[] | Olivio |
+|[] | Ammazza che pizza |
+|[] | Gazzo |
+|[] | GelGör |
