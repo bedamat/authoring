@@ -14,6 +14,7 @@ i don't know yet what this will be for...
 ![here is a pengiuin](img/pingu1.jpg)
 
 - ## Emojis
-:smile:
 :metal:
+:smile:
+
 
