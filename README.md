@@ -23,9 +23,8 @@ I have already eaten here this week:
 
 
 
-
+|---------|:------------:|
 | &#9745; |My Kitchen |
-|---------|------------|
 | &#9744; |Kotti Dang |
 | &#9744; |Olivio |
 | &#9744; |Ammazza che pizza |
