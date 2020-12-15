@@ -21,8 +21,9 @@ i don't know yet what this will be for...
 
 I love to eat at these places:
 
-| - [ ] | MY KITCHEN |
-Kotti Dang
+ |   - [ ] | MY KITCHEN |
+ |---------|------------|
+ |   - [ ] | Kotti Dang |
 Olivio
 Ammazza che pizza
 Gazzo
