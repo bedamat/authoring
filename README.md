@@ -29,5 +29,6 @@ I have already eaten here this week:
 | &#9744; |Olivio |
 | &#9744; |Ammazza che pizza |
 | &#9744; |Gazzo |
-| &#9744; |GelGör 
+| &#9744; |GelGör |
+| &#9744; |Duong Family |
 
