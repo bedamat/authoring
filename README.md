@@ -19,4 +19,11 @@ i don't know yet what this will be for...
 <br>
 :hammer: :heart:
 
+I love to eat at these places:
 
+| - [ ] | MY KITCHEN |
+Kotti Dang
+Olivio
+Ammazza che pizza
+Gazzo
+GelGör
