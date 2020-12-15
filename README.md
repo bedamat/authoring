@@ -21,19 +21,14 @@ i don't know yet what this will be for...
 
 I have already eaten here this week:
 
-|- [ ] | MY KITCHEN |
-|---|------------|
-|   - [x]| Kotti Dang |
-|   - [] | Olivio |
-|   - [] | Ammazza che pizza |
-|   - [] | Gazzo |
-|   - [] | GelGör |
 
 
-- [ ] My Kitchen
-- [x] Kotti Dang
-- [x] Olivio
-- [x] Ammazza che pizza
-- [ ] Gazzo
-- [ ] GelGör
+
+|   - [x] |My Kitchen |
+|---------|------------|
+|   - [ ] |Kotti Dang |
+|   - [ ] |Olivio |
+|   - [ ] |Ammazza che pizza |
+|   - [ ] |Gazzo |
+|   - [ ] |GelGör 
 
