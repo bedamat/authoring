@@ -21,19 +21,19 @@ i don't know yet what this will be for...
 
 I have already eaten here this week:
 
-|   - [] | MY KITCHEN |
+|- [ ] | MY KITCHEN |
 |---|------------|
 |   - [x]| Kotti Dang |
 |   - [] | Olivio |
 |   - [] | Ammazza che pizza |
 |   - [] | Gazzo |
 |   - [] | GelGör |
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+
+
+- [ ] My Kitchen
+- [x] Kotti Dang
+- [x] Olivio
+- [x] Ammazza che pizza
+- [ ] Gazzo
+- [ ] GelGör
+
