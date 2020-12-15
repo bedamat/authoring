@@ -21,10 +21,10 @@ i don't know yet what this will be for...
 
 I have already eaten here this week:
 
-|[] | MY KITCHEN |
+|  - [] | MY KITCHEN |
 |---|------------|
-|[x]| Kotti Dang |
-|[] | Olivio |
+|  - [x]| Kotti Dang |
+|  - [] | Olivio |
 |[] | Ammazza che pizza |
 |[] | Gazzo |
 |[] | GelGör |
