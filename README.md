@@ -22,9 +22,9 @@ i don't know yet what this will be for...
 I have already eaten here this week:
 
 
-| visited | place |
+| visited | restaurant |
 |---------|:------------:|
-| &#9745; |My Kitchen |
+| &#9745; |my kitchen |
 | &#9744; |Kotti Dang |
 | &#9744; |Olivio |
 | &#9744; |Ammazza che pizza |
