@@ -22,7 +22,7 @@ i don't know yet what this will be for...
 I have already eaten here this week:
 
 
-
+| visited | place |
 |---------|:------------:|
 | &#9745; |My Kitchen |
 | &#9744; |Kotti Dang |
